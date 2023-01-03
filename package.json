@@ -13,6 +13,7 @@
     "sass-loader": "^13.2.0"
   },
   "dependencies": {
+    "bootstrap": "^5.2.3",
     "scss": "^0.2.4"
   }
 }
